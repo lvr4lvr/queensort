@@ -1,3 +1,5 @@
+includeData("2025-08-04_drag-queens.js");
+
 /**
  * @typedef {{name: string, key: string, tooltip?: string, checked?: boolean, sub?: {name: string, tooltip?: string, checked?: string}[]}[]} Options
  * @typedef {{name: string, img: string, opts: Object<string, boolean|number[]}[]} CharData
